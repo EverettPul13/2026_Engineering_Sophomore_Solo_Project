@@ -7,5 +7,4 @@ The full list of changes made to the original code are:
   - special layers made for FRC and CAD
   - cleaner code and support for the raspberry pi pico 2 
 
-This is purely ment to be used as a storage for the code and files for my final so don't think i am commiting plagerism or academic dishonesty
-I give full credit to kbjunky for his original macropad project and I am only makina modified version for myself. I only used Kbjunky's code because his was a perfect building block for a macropad project and it was almost perfect
+If you have any ideas or improvements let me know :)
