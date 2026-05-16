@@ -5,6 +5,8 @@ The full list of changes made to the original code are:
   - updated RGB settings
   - new layer images
   - special layers made for FRC and CAD
-  - cleaner code and support for the raspberry pi pico 2 
+  - cleaner code and support for the raspberry pi pico 2
+  - L3 is the Cyrus and Rohan layer
+  - 
 
 If you have any ideas or improvements let me know :)
